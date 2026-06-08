@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+supabase
+fastapi
+pypdf
+python-dotenv
+groq
+langgraph
+langchain-core
+pydantic
+uvicorn
+python-multipart

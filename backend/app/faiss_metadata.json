@@ -1,0 +1,218 @@
+[
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "# Freelancer Contract Standards\n\n## Purpose\n\nFreelancer contracts establish the legal relationship between an independent contractor and a client. A well-drafted freelancer agreement reduces disputes, clarifies expectations, allocates risk, and ensures fair compensation.\n\nThis document describes generally accepted standards, best practices, and risk indicators commonly found in freelancer agreements.\n\n---\n\n# Freelancer Relationship"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "A freelancer is generally an independent contractor and not an employee.\n\nIndicators of a freelance relationship include:\n\n* Freedom to determine work methods.\n* Ability to work for multiple clients.\n* Payment based on deliverables or milestones.\n* No employee benefits.\n* No guaranteed ongoing work.\n* Control over working hours.\n\nContracts that exert excessive control over a freelancer may increase the risk of worker misclassification.\n\n---\n\n# Scope of Work"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "The scope of work should clearly define:\n\n* Services to be provided.\n* Deliverables.\n* Project objectives.\n* Technical requirements.\n* Milestones.\n* Deadlines.\n\n## Best Practice\n\nThe agreement should specifically identify deliverables rather than relying on broad descriptions.\n\nExample:\n\nGood:\n\n\"Design and deliver a responsive marketing website consisting of five pages.\"\n\nPoor:\n\n\"Provide all services requested by the client.\"\n\n## Risk Indicators\n\nHigh Risk:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* Undefined scope.\n* Open-ended obligations.\n* Broad discretionary authority granted to the client.\n\nMedium Risk:\n\n* Vague descriptions.\n* Missing specifications.\n\n---\n\n# Deliverables\n\nDeliverables should be objectively measurable.\n\nExamples include:\n\n* Source code.\n* Design files.\n* Reports.\n* Marketing assets.\n* Written content.\n* Research documents.\n\n## Best Practice\n\nEach deliverable should include:\n\n* Description.\n* Format.\n* Delivery date.\n* Acceptance criteria.\n\n---\n\n# Project Timeline"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "A contract should establish:\n\n* Start date.\n* Milestone dates.\n* Final delivery date.\n\n## Best Practice\n\nTimelines should account for:\n\n* Client feedback periods.\n* Revision cycles.\n* Delays caused by client inaction.\n\n## Risk Indicators\n\nHigh Risk:\n\n* Freelancer responsible for delays caused by client.\n\nMedium Risk:\n\n* No timeline specified.\n\n---\n\n# Acceptance Criteria\n\nAcceptance criteria define when work is considered completed.\n\n## Best Practice\n\nContracts should include a review period."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "Example:\n\n\"Client shall review delivered work within seven business days. Failure to provide written objections during this period shall constitute acceptance.\"\n\n## Risk Indicators\n\nHigh Risk:\n\n* Payment dependent upon subjective client satisfaction.\n* No acceptance process.\n\n---\n\n# Revision Policy\n\nContracts should define:\n\n* Number of revisions.\n* Revision scope.\n* Additional revision fees.\n\n## Best Practice\n\nSpecify a reasonable number of revisions.\n\nExample:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "\"Two rounds of revisions are included.\"\n\n## Risk Indicators\n\nCritical Risk:\n\n* Unlimited revisions.\n\nHigh Risk:\n\n* Revisions at client discretion without compensation.\n\n---\n\n# Payment Terms\n\nPayment clauses are among the most important sections.\n\nContracts should specify:\n\n* Total project fee.\n* Milestone payments.\n* Hourly rates.\n* Retainers.\n* Currency.\n* Taxes.\n\n## Best Practice\n\nUse milestone-based payments.\n\nExample:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* 50% advance.\n* 25% upon milestone completion.\n* 25% upon final delivery.\n\n## Risk Indicators\n\nCritical Risk:\n\n* Payment entirely dependent on client discretion.\n\nHigh Risk:\n\n* No payment deadline.\n* No invoice process.\n* Payment after indefinite approval.\n\n---\n\n# Advance Payment\n\nAdvance payments reduce freelancer risk.\n\n## Industry Standard\n\nCommon structures include:\n\n* 30% advance.\n* 50% advance.\n* Full advance for small projects.\n\n## Risk Indicators\n\nMedium Risk:\n\n* No advance payment."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "High Risk:\n\n* Significant upfront work required before payment.\n\n---\n\n# Late Payment Protection\n\nContracts should address:\n\n* Payment deadlines.\n* Interest on overdue payments.\n* Collection costs.\n\n## Best Practice\n\nInvoices should be payable within:\n\n* 7 days.\n* 15 days.\n* 30 days.\n\n## Risk Indicators\n\nHigh Risk:\n\n* No late payment protection.\n\n---\n\n# Client Responsibilities\n\nClients should be responsible for:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* Providing information.\n* Providing approvals.\n* Providing access to systems.\n* Timely communication.\n\n## Best Practice\n\nClient-caused delays should extend project deadlines.\n\n## Risk Indicators\n\nHigh Risk:\n\n* Freelancer liable for delays caused by client.\n\n---\n\n# Intellectual Property\n\nIntellectual property ownership should be explicitly defined.\n\n## Common Approaches\n\n### Assignment After Payment\n\nOwnership transfers after full payment.\n\nThis is generally freelancer-friendly."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "### Immediate Assignment\n\nOwnership transfers immediately upon creation.\n\nThis is generally client-friendly.\n\n### License Model\n\nFreelancer retains ownership while granting usage rights.\n\n---\n\n# Portfolio Rights\n\nFreelancers often wish to display completed work.\n\n## Best Practice\n\nContracts should permit portfolio use after project completion unless confidentiality concerns exist.\n\n## Risk Indicators\n\nMedium Risk:\n\n* Permanent prohibition on portfolio use.\n\n---\n\n# Confidentiality"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "Freelancers may receive confidential information.\n\nConfidentiality clauses should define:\n\n* Protected information.\n* Exceptions.\n* Duration.\n\n## Best Practice\n\nReasonable confidentiality periods include:\n\n* 2 years.\n* 3 years.\n* 5 years.\n\n## Risk Indicators\n\nHigh Risk:\n\n* Broad perpetual confidentiality obligations.\n\n---\n\n# Independent Contractor Status\n\nThe agreement should clearly state:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* Freelancer is not an employee.\n* Freelancer is responsible for taxes.\n* No employment benefits are provided.\n\n---\n\n# Non-Compete Clauses\n\nFreelancer contracts occasionally contain non-compete restrictions.\n\n## Best Practice\n\nRestrictions should be narrow and reasonable.\n\n## Risk Indicators\n\nCritical Risk:\n\n* Prohibition on working with any competitor.\n* Industry-wide restrictions.\n* Long-term restrictions after contract completion.\n\n---\n\n# Non-Solicitation Clauses"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "These clauses restrict direct solicitation of employees or customers.\n\n## Best Practice\n\nRestrictions should be limited in duration and scope.\n\n## Risk Indicators\n\nHigh Risk:\n\n* Unlimited duration.\n* Excessively broad definitions.\n\n---\n\n# Indemnity Clauses\n\nIndemnity provisions allocate legal risk.\n\n## Balanced Standard\n\nEach party indemnifies the other for losses caused by its own misconduct.\n\n## Risk Indicators\n\nCritical Risk:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* Unlimited one-sided indemnity.\n* Indemnity for matters outside freelancer control.\n\n---\n\n# Limitation of Liability\n\nLiability limitations are common commercial protections.\n\n## Best Practice\n\nLiability should be capped.\n\nExample:\n\n\"Liability shall not exceed the total fees paid under this agreement.\"\n\n## Risk Indicators\n\nCritical Risk:\n\n* Unlimited liability.\n\nHigh Risk:\n\n* Freelancer liability uncapped while client liability is capped.\n\n---\n\n# Termination Rights"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "Contracts should specify termination procedures.\n\n## Common Standards\n\nTermination:\n\n* For convenience with notice.\n* For breach.\n* For non-payment.\n\n## Best Practice\n\nNotice periods of:\n\n* 7 days.\n* 14 days.\n* 30 days.\n\nare common.\n\n## Risk Indicators\n\nCritical Risk:\n\n* Client may terminate immediately without compensation.\n\n---\n\n# Kill Fee\n\nA kill fee compensates the freelancer when a project is cancelled after work has begun.\n\n## Best Practice"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "Compensation should reflect work completed and reserved project time.\n\n## Risk Indicators\n\nHigh Risk:\n\n* Client may cancel at any time without payment.\n\n---\n\n# Force Majeure\n\nForce majeure clauses address extraordinary events beyond reasonable control.\n\nExamples:\n\n* Natural disasters.\n* War.\n* Government restrictions.\n* Major infrastructure failures.\n\n---\n\n# Dispute Resolution\n\nContracts should specify:\n\n* Governing law.\n* Jurisdiction.\n* Arbitration provisions.\n\n## Best Practice"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "Disputes should be resolved in a practical and accessible forum.\n\n## Risk Indicators\n\nHigh Risk:\n\n* Mandatory foreign litigation for low-value contracts.\n\n---\n\n# Contract Review Risk Scoring\n\nCritical Risks:\n\n* Unlimited liability.\n* Unlimited indemnity.\n* Broad IP assignment.\n* Non-payment provisions.\n* Unlimited revisions.\n* Immediate termination without compensation.\n\nHigh Risks:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* Missing payment schedule.\n* Missing acceptance criteria.\n* Broad non-compete clauses.\n* Foreign jurisdiction requirements.\n\nMedium Risks:\n\n* Ambiguous deliverables.\n* Vague timelines.\n* Missing revision limits.\n\nLow Risks:\n\n* Minor drafting inconsistencies.\n* Formatting issues.\n\n---\n\n# Freelancer-Friendly Contract Characteristics\n\nA freelancer-friendly agreement typically includes:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "* Clear scope of work.\n* Defined deliverables.\n* Milestone-based payments.\n* Advance payment requirements.\n* Limited revisions.\n* Acceptance procedures.\n* Liability caps.\n* Balanced indemnity obligations.\n* Portfolio rights.\n* Reasonable termination provisions.\n* Fair dispute resolution mechanisms.\n\n---\n\n# General Guidance"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\freelancer_contract_standards.md",
+    "text": "Freelancer agreements should balance commercial flexibility with legal certainty. Contracts that clearly define scope, payment obligations, ownership rights, liability allocation, and termination procedures generally present lower legal and commercial risk than contracts relying on broad discretionary powers or vague obligations."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "# Indian Contract Law Knowledge Base\n\n## Overview\n\nIndian contracts are primarily governed by the Indian Contract Act, 1872. The Act establishes the rules relating to formation, performance, breach, and enforceability of contracts in India.\n\nA contract is an agreement enforceable by law. Every contract is an agreement, but not every agreement becomes a contract. To be legally enforceable, an agreement must satisfy the requirements prescribed under Indian law.\n\n---"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "## Essential Elements of a Valid Contract\n\nA valid contract generally requires:\n\n1. Offer by one party.\n2. Acceptance by another party.\n3. Lawful consideration.\n4. Free consent of all parties.\n5. Competency of parties to contract.\n6. Lawful object and purpose.\n7. Intention to create legal obligations.\n8. Certainty of terms.\n9. Possibility of performance.\n\nFailure to satisfy these requirements may result in the agreement being void, voidable, or unenforceable.\n\n---\n\n## Offer and Acceptance"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "An offer is a proposal made by one party expressing willingness to enter into a contract on specified terms.\n\nAcceptance occurs when the person receiving the offer agrees to those terms without material modification.\n\nA valid acceptance must:\n\n* Be absolute and unconditional.\n* Correspond exactly with the offer.\n* Be communicated to the offeror.\n* Occur before the offer is withdrawn or expires.\n\nA counter-offer generally rejects the original offer and creates a new proposal.\n\n---"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "## Consideration\n\nConsideration refers to something of value exchanged between parties.\n\nConsideration may consist of:\n\n* Payment of money.\n* Provision of services.\n* Transfer of property.\n* Promise to perform or refrain from an act.\n\nAgreements without lawful consideration are generally unenforceable unless they fall within recognized legal exceptions.\n\n---\n\n## Free Consent\n\nConsent is considered free when it is not caused by:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "* Coercion.\n* Undue influence.\n* Fraud.\n* Misrepresentation.\n* Mistake.\n\nIf consent is obtained through improper means, the affected party may have the right to avoid the contract.\n\n---\n\n## Competency to Contract\n\nA person is generally competent to contract if they:\n\n* Have attained the age of majority.\n* Are of sound mind.\n* Are not disqualified by law.\n\nAgreements entered into by minors are generally void.\n\n---\n\n## Lawful Object\n\nThe purpose of the agreement must be lawful."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "An agreement may be invalid if its object:\n\n* Is forbidden by law.\n* Defeats the provisions of law.\n* Is fraudulent.\n* Causes injury to persons or property.\n* Is considered immoral or opposed to public policy.\n\n---\n\n## Void Agreements\n\nVoid agreements are agreements that cannot be enforced by law.\n\nExamples may include:\n\n* Agreements with unlawful objects.\n* Agreements lacking consideration.\n* Agreements with uncertain terms.\n* Agreements involving impossible acts.\n\n---"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "## Performance of Contracts\n\nParties are generally required to perform their contractual obligations according to agreed terms.\n\nPerformance may occur through:\n\n* Actual performance.\n* Tender of performance.\n* Mutual agreement.\n* Operation of law.\n\nFailure to perform may constitute breach.\n\n---\n\n## Breach of Contract\n\nA breach occurs when a party fails to perform a contractual obligation without lawful excuse.\n\nTypes of breach include:\n\n* Actual breach.\n* Anticipatory breach."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "A breach may entitle the affected party to seek legal remedies.\n\n---\n\n## Remedies for Breach\n\nCommon remedies include:\n\n### Damages\n\nMonetary compensation intended to place the injured party in the position they would have occupied had the contract been performed.\n\n### Specific Performance\n\nA court order directing a party to perform contractual obligations where monetary damages are inadequate.\n\n### Injunction\n\nA court order restraining a party from performing certain acts.\n\n### Rescission"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "Cancellation of the contract and restoration of parties to their original positions where appropriate.\n\n---\n\n## Indemnity\n\nAn indemnity is a promise by one party to compensate another for specified losses.\n\nIndemnity clauses are commonly used to allocate contractual risk.\n\nWhen reviewing contracts, broad or unlimited indemnity obligations should be treated as high-risk provisions.\n\n---\n\n## Guarantee\n\nA guarantee involves:\n\n* Principal debtor.\n* Creditor.\n* Surety."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "The surety agrees to perform obligations or satisfy liabilities if the principal debtor fails to do so.\n\n---\n\n## Agency\n\nAn agency relationship exists when one person is authorized to act on behalf of another.\n\nActions performed by an authorized agent may legally bind the principal.\n\n---\n\n## Limitation of Liability\n\nParties frequently include clauses limiting liability.\n\nCommon limitations include:\n\n* Liability caps.\n* Exclusion of indirect damages.\n* Exclusion of consequential damages."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "Contracts containing unlimited liability obligations should be flagged for review.\n\n---\n\n## Dispute Resolution\n\nContracts commonly provide mechanisms for resolving disputes, including:\n\n* Negotiation.\n* Mediation.\n* Arbitration.\n* Litigation.\n\nImportant considerations include:\n\n* Governing law.\n* Jurisdiction.\n* Seat of arbitration.\n* Language of proceedings.\n\n---\n\n## Contract Review Risk Indicators\n\nHigh-risk indicators include:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "* Unlimited indemnity.\n* Unlimited liability.\n* Unclear payment terms.\n* Unilateral termination rights.\n* Broad intellectual property assignment.\n* Perpetual confidentiality obligations.\n* Mandatory foreign jurisdiction for small-value disputes.\n* Ambiguous scope of work.\n* Missing acceptance criteria.\n* Automatic renewal without notice.\n\nMedium-risk indicators include:\n\n* Vague deliverables.\n* Missing timelines.\n* Undefined key terms.\n* Broad discretionary powers.\n\nLow-risk indicators include:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\indian_contract_law.md",
+    "text": "* Formatting inconsistencies.\n* Minor drafting ambiguities.\n\n---\n\n## General Disclaimer\n\nThis knowledge base provides educational and informational guidance regarding Indian contract law concepts. It is not legal advice and should not be relied upon as a substitute for professional legal counsel."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "# Risk Patterns Knowledge Base\n\n## Purpose\n\nThis document identifies common legal, commercial, operational, and financial risks found in freelance, consulting, contractor, gig worker, startup, and service agreements.\n\nThe purpose of risk detection is to identify provisions that may expose a party to excessive liability, unfair obligations, financial loss, or legal uncertainty.\n\nRisk levels are categorized as:\n\n* Critical Risk\n* High Risk\n* Medium Risk\n* Low Risk"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "The existence of a risk does not automatically make a contract unenforceable. Risk indicators should be evaluated in the context of the entire agreement.\n\n---\n\n# Critical Risk Patterns\n\nCritical risks are provisions that may expose a party to substantial legal or financial harm.\n\n---\n\n## Unlimited Liability\n\n### Description\n\nOne party remains liable for all losses regardless of amount.\n\n### Common Language\n\n* \"Unlimited liability\"\n* \"Liable for all damages\"\n* \"No limitation of liability\""
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "### Risk\n\nA single dispute could exceed the entire value of the contract.\n\n### Recommendation\n\nLiability should generally be capped at fees paid under the agreement or another negotiated amount.\n\n---\n\n## Unlimited Indemnity\n\n### Description\n\nOne party agrees to compensate another for unlimited losses.\n\n### Common Language\n\n* \"Indemnify and hold harmless\"\n* \"Any and all losses\"\n* \"Without limitation\"\n\n### Risk\n\nExposure may significantly exceed project value.\n\n### Recommendation"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Indemnity obligations should be limited to matters under the indemnifying party's control.\n\n---\n\n## Broad Intellectual Property Assignment\n\n### Description\n\nOwnership transfers beyond project deliverables.\n\n### Common Language\n\n* \"All inventions\"\n* \"All future developments\"\n* \"All intellectual property\"\n\n### Risk\n\nLoss of ownership over unrelated work.\n\n### Recommendation\n\nLimit assignment to project-specific deliverables.\n\n---\n\n## Payment At Client Discretion\n\n### Description"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Client determines whether work deserves payment.\n\n### Common Language\n\n* \"Payment subject to satisfaction\"\n* \"At sole discretion\"\n* \"As determined by client\"\n\n### Risk\n\nCreates uncertainty regarding compensation.\n\n### Recommendation\n\nUse objective acceptance criteria.\n\n---\n\n## Perpetual Non-Compete\n\n### Description\n\nRestrictions continue indefinitely after project completion.\n\n### Common Language\n\n* \"Forever\"\n* \"Without limitation\"\n* \"Permanent restriction\"\n\n### Risk"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "May significantly impair future earning opportunities.\n\n### Recommendation\n\nRestrictions should be narrowly tailored and limited in duration.\n\n---\n\n## Immediate Termination Without Compensation\n\n### Description\n\nClient may terminate without payment for completed work.\n\n### Common Language\n\n* \"Terminate at any time\"\n* \"Without notice\"\n* \"Without compensation\"\n\n### Risk\n\nFreelancer may lose compensation despite substantial performance.\n\n### Recommendation"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Include payment for completed work and termination notice requirements.\n\n---\n\n# High Risk Patterns\n\n---\n\n## Missing Payment Schedule\n\n### Description\n\nNo defined payment timeline.\n\n### Risk\n\nCreates collection disputes and cash-flow uncertainty.\n\n### Common Language\n\n* \"Payment upon completion\"\n* \"Payment as agreed\"\n\n### Recommendation\n\nSpecify exact payment dates and invoice procedures.\n\n---\n\n## Missing Acceptance Procedure\n\n### Description\n\nNo process for approving deliverables.\n\n### Risk"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Clients may delay acceptance indefinitely.\n\n### Recommendation\n\nCreate review periods and deemed acceptance provisions.\n\n---\n\n## Unlimited Revisions\n\n### Description\n\nClient may request endless changes.\n\n### Risk\n\nProject scope expands without additional compensation.\n\n### Recommendation\n\nDefine included revisions and additional fees.\n\n---\n\n## Foreign Jurisdiction Requirement\n\n### Description\n\nDisputes must be resolved in another country.\n\n### Risk"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Legal enforcement becomes expensive and impractical.\n\n### Recommendation\n\nUse a jurisdiction accessible to both parties.\n\n---\n\n## One-Sided Confidentiality Obligations\n\n### Description\n\nOnly one party assumes confidentiality obligations.\n\n### Risk\n\nCreates an unequal allocation of risk.\n\n### Recommendation\n\nConfidentiality obligations should generally be mutual.\n\n---\n\n## Broad Definition Of Services\n\n### Description\n\nScope extends beyond clearly defined work.\n\n### Common Language"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "* \"Any services requested\"\n* \"Any related services\"\n* \"Any tasks assigned\"\n\n### Risk\n\nUncontrolled scope expansion.\n\n### Recommendation\n\nDefine specific deliverables.\n\n---\n\n## Exclusive Service Requirement\n\n### Description\n\nFreelancer cannot work for other clients.\n\n### Risk\n\nCreates dependence on a single client.\n\n### Recommendation\n\nAvoid exclusivity unless separately compensated.\n\n---\n\n## Automatic Renewal\n\n### Description\n\nContract renews automatically.\n\n### Risk"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Parties may become bound unintentionally.\n\n### Recommendation\n\nRequire notice before renewal.\n\n---\n\n## Unilateral Contract Modification\n\n### Description\n\nOne party may change terms without consent.\n\n### Risk\n\nCreates uncertainty and unfair bargaining power.\n\n### Recommendation\n\nRequire written agreement from all parties.\n\n---\n\n# Medium Risk Patterns\n\n---\n\n## Vague Deliverables\n\n### Description\n\nDeliverables are not objectively defined.\n\n### Examples"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "* \"Marketing support\"\n* \"Technology services\"\n* \"Business consulting\"\n\n### Risk\n\nCreates disagreement regarding completion.\n\n### Recommendation\n\nUse measurable outcomes.\n\n---\n\n## Missing Milestones\n\n### Description\n\nProject lacks intermediate checkpoints.\n\n### Risk\n\nLarge disputes may arise near project completion.\n\n### Recommendation\n\nDivide projects into stages.\n\n---\n\n## Ambiguous Deadlines\n\n### Description\n\nTiming obligations are unclear.\n\n### Examples"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "* \"As soon as possible\"\n* \"Reasonable time\"\n\n### Recommendation\n\nSpecify dates whenever possible.\n\n---\n\n## Missing Client Responsibilities\n\n### Description\n\nClient obligations are omitted.\n\n### Risk\n\nDelays may be attributed to the freelancer.\n\n### Recommendation\n\nClearly define client duties.\n\n---\n\n## Broad Force Majeure Language\n\n### Description\n\nForce majeure covers events reasonably controllable by a party.\n\n### Risk\n\nMay excuse avoidable non-performance.\n\n### Recommendation"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "Limit coverage to extraordinary events.\n\n---\n\n## Excessive Notice Requirements\n\n### Description\n\nNotice procedures are difficult to satisfy.\n\n### Examples\n\n* Multiple delivery methods.\n* Short deadlines.\n* Complex approval chains.\n\n### Risk\n\nRights may be lost due to technicalities.\n\n---\n\n## Broad Audit Rights\n\n### Description\n\nClient may inspect records without limitation.\n\n### Risk\n\nAdministrative burden and privacy concerns.\n\n### Recommendation\n\nLimit frequency and scope.\n\n---"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "# Low Risk Patterns\n\n---\n\n## Minor Drafting Errors\n\n### Examples\n\n* Formatting inconsistencies.\n* Numbering mistakes.\n* Typographical errors.\n\n### Risk\n\nUsually low.\n\n---\n\n## Redundant Definitions\n\n### Description\n\nMultiple definitions for the same concept.\n\n### Risk\n\nMay create confusion but rarely causes substantial harm.\n\n---\n\n## Excessive Legal Language\n\n### Description\n\nOverly complex drafting.\n\n### Risk\n\nReduced readability.\n\n### Recommendation\n\nUse clear language where possible.\n\n---"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "# Financial Risk Indicators\n\nHigh-risk financial indicators include:\n\n* No advance payment.\n* Delayed payment terms exceeding 90 days.\n* Payment contingent upon third-party payment.\n* Undefined expenses.\n* Uncapped reimbursement obligations.\n* Currency conversion risk assigned to one party.\n\n---\n\n# Intellectual Property Risk Indicators\n\nHigh-risk IP indicators include:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "* Assignment before payment.\n* Assignment of future inventions.\n* Assignment of unrelated work.\n* Assignment of pre-existing intellectual property.\n* Prohibition on portfolio use.\n\n---\n\n# Employment Classification Risk Indicators\n\nIndicators that may suggest worker misclassification include:\n\n* Fixed working hours.\n* Direct supervision.\n* Mandatory attendance requirements.\n* Restrictions on other clients.\n* Employee-style performance reviews.\n* Employer control over work methods.\n\n---"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "# Contract Review Priority Matrix\n\nWhen reviewing a contract, risks should generally be analyzed in the following order:\n\n1. Payment terms.\n2. Liability limitations.\n3. Indemnity obligations.\n4. Intellectual property ownership.\n5. Termination rights.\n6. Scope of work.\n7. Confidentiality obligations.\n8. Dispute resolution provisions.\n9. Non-compete restrictions.\n10. Administrative provisions.\n\n---\n\n# Risk Scoring Guidance\n\nCritical Risk:\nPotential for severe financial, legal, or operational harm."
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "High Risk:\nLikely to cause disputes, losses, or unfair obligations.\n\nMedium Risk:\nCreates uncertainty or inefficiency.\n\nLow Risk:\nMinimal practical impact.\n\n---\n\n# Contract Analyzer Guidance\n\nA contract containing multiple critical risks should be flagged for immediate review.\n\nParticular attention should be given to:"
+  },
+  {
+    "source": "C:\\Users\\User\\Documents\\Projects\\gig-contract-analysis\\backend\\knowledge_base\\risk_patterns.md",
+    "text": "* Unlimited liability.\n* Unlimited indemnity.\n* Broad intellectual property assignments.\n* Missing payment protections.\n* Excessive termination rights.\n* Foreign dispute requirements.\n* Unlimited revisions.\n* Ambiguous scope definitions.\n\nThese risks frequently produce the most significant disputes in freelance, consulting, contractor, and gig-worker agreements."
+  }
+]
