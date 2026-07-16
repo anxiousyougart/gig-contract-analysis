@@ -10,3 +10,4 @@ langchain-core
 pydantic
 uvicorn
 python-multipart
+python-docx

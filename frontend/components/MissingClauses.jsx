@@ -4,7 +4,9 @@ export default function MissingClauses({ missingClauses }) {
   if (!missingClauses || missingClauses.length === 0) {
     return (
       <div className="card text-center" style={{ padding: '2rem' }}>
-        <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🛡️</div>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" style={{ width: '2.5rem', height: '2.5rem', margin: '0 auto 1.25rem auto', color: 'var(--color-primary)' }}>
+          <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+        </svg>
         <h3>No Missing Clauses</h3>
         <p className="text-muted" style={{ marginTop: '0.5rem' }}>All critical protection clauses exist in this contract!</p>
       </div>

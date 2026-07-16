@@ -3,9 +3,9 @@ import React from 'react'
 export default function Chat({ onReset }) {
   return (
     <div className="card" style={{ maxWidth: '750px', margin: '2rem auto', padding: '2.5rem' }}>
-      <h2 style={{ fontSize: '1.8rem', marginBottom: '1rem', fontFamily: 'Outfit' }}>About GigShield Contract Analyzer</h2>
+      <h2 style={{ fontSize: '1.8rem', marginBottom: '1rem', fontFamily: 'Outfit' }}>About LexFlow AI Contract Analyzer</h2>
       <p className="text-secondary" style={{ marginBottom: '1.5rem' }}>
-        GigShield is an agentic contract audit tool designed specifically for gig workers, freelancers, and independent contractors in India.
+        LexFlow AI is an agentic contract audit tool designed specifically for gig workers, freelancers, and independent contractors in India.
       </p>
 
       <h3 style={{ fontSize: '1.25rem', marginBottom: '0.75rem', marginTop: '1.5rem', color: '#c7d2fe' }}>How the Analysis Works:</h3>
@@ -32,7 +32,7 @@ export default function Chat({ onReset }) {
       </ol>
 
       <button className="btn-primary" onClick={onReset} style={{ marginTop: '2.5rem' }}>
-        🚀 Start New Analysis
+        Start New Analysis
       </button>
     </div>
   )

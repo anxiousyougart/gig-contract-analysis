@@ -4,7 +4,9 @@ export default function RiskCard({ risks }) {
   if (!risks || risks.length === 0) {
     return (
       <div className="card text-center" style={{ padding: '2rem' }}>
-        <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🎉</div>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" style={{ width: '2.5rem', height: '2.5rem', margin: '0 auto 1.25rem auto', color: 'var(--color-success)' }}>
+          <polyline points="20 6 9 17 4 12" />
+        </svg>
         <h3>No Risks Found</h3>
         <p className="text-muted" style={{ marginTop: '0.5rem' }}>This agreement doesn't contain any flagged risks!</p>
       </div>

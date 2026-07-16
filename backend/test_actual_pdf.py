@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv(dotenv_path="../.env", override=True)
 
 # Force test run to use llama-3.1-8b-instant model to bypass token rate limits
-os.environ["GROQ_MODEL"] = "llama-3.1-8b-instant"
+# os.environ["GROQ_MODEL"] = "llama-3.1-8b-instant"
 
 # Add current directory to path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -23,13 +23,9 @@ def test_pipeline(pdf_path: str, user_id: str):
     raw_text = extract_text_from_pdf(pdf_path)
     print(f"Extracted {len(raw_text)} characters.")
     
-    print("\n2. Retrieving RAG context using Retriever...")
-    retriever = Retriever(top_k=5)
-    query_text = raw_text[:1000]
-    retrieved = retriever.retrieve(query_text)
-    retrieved_chunks = [chunk["text"] for chunk in retrieved]
-    legal_context = "\n\n".join(retrieved_chunks)
-    print(f"Retrieved {len(retrieved_chunks)} chunks from FAISS vector store.")
+    print("\n2. Initializing RAG context empty (will be fetched inside graph)...")
+    legal_context = ""
+    retrieved_chunks = []
     
     # Prepare state
     initial_state = {

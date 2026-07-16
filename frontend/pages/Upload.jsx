@@ -1,8 +1,7 @@
 import React, { useState, useRef } from 'react'
 
-export default function Upload({ onUpload, loading, status, error }) {
+export default function Upload({ onUpload, loading, status, error, userId, onUserIdChange }) {
   const [file, setFile] = useState(null)
-  const [userId, setUserId] = useState('123e0907-7219-4fdc-97ab-dffa6d0771e6')
   const [isDragActive, setIsDragActive] = useState(false)
   const fileInputRef = useRef(null)
 
@@ -118,14 +117,28 @@ export default function Upload({ onUpload, loading, status, error }) {
         >
           {file ? (
             <div>
-              <div className="dropzone-icon-container">📄</div>
+              <div className="dropzone-icon-container" style={{ display: 'flex', justifyContent: 'center' }}>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{ width: '2.5rem', height: '2.5rem' }}>
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                  <polyline points="14 2 14 8 20 8" />
+                  <line x1="16" y1="13" x2="8" y2="13" />
+                  <line x1="16" y1="17" x2="8" y2="17" />
+                  <polyline points="10 9 9 9 8 9" />
+                </svg>
+              </div>
               <h3>Selected Contract</h3>
               <div className="file-pill" title={file.name}>{file.name}</div>
               <p style={{ marginTop: '1rem' }}>Click or drop a different file to replace</p>
             </div>
           ) : (
             <div>
-              <div className="dropzone-icon-container">📥</div>
+              <div className="dropzone-icon-container" style={{ display: 'flex', justifyContent: 'center' }}>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{ width: '2.5rem', height: '2.5rem' }}>
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                  <polyline points="17 8 12 3 7 8" />
+                  <line x1="12" y1="3" x2="12" y2="15" />
+                </svg>
+              </div>
               <h3>Drag and drop your contract PDF here</h3>
               <p>or click to browse from files</p>
             </div>
@@ -139,7 +152,7 @@ export default function Upload({ onUpload, loading, status, error }) {
             id="user-id" 
             className="form-input"
             value={userId}
-            onChange={(e) => setUserId(e.target.value)}
+            onChange={(e) => onUserIdChange(e.target.value)}
             placeholder="Enter User UUID"
             required
           />
@@ -150,7 +163,7 @@ export default function Upload({ onUpload, loading, status, error }) {
 
         {error && (
           <div className="assessment-box danger" style={{ marginBottom: '1.5rem', textAlign: 'left' }}>
-            <div className="assessment-title">⚠️ Error Analyzing Contract</div>
+            <div className="assessment-title">Error Analyzing Contract</div>
             <p style={{ fontSize: '0.9rem' }}>{error}</p>
           </div>
         )}
@@ -160,7 +173,7 @@ export default function Upload({ onUpload, loading, status, error }) {
           className="btn-primary" 
           disabled={!file || loading}
         >
-          🔍 Analyze Agreement
+          Analyze Agreement
         </button>
       </form>
     </div>

@@ -7,7 +7,7 @@ from app.llm.groq_client import ask_groq
 def repair_json_with_llm(malformed_json_str: str) -> str:
     """Uses the json_repair prompt template and Groq to repair malformed JSON."""
     try:
-        repair_prompt_template = Path("app/prompts/json_repair.md").read_text()
+        repair_prompt_template = (Path(__file__).parent.parent / "prompts" / "json_repair.md").read_text()
         repair_prompt = repair_prompt_template.replace("{response}", malformed_json_str)
         repaired_response = ask_groq(repair_prompt)
         
@@ -64,9 +64,7 @@ def parse_json_safely(text: str, schema_key: str) -> Any:
 
 def detect_missing_clauses(state: ContractState) -> Dict[str, Any]:
     # Load the missing clause detector prompt template
-    prompt_template = Path(
-        "app/prompts/missing_clause.md"
-    ).read_text()
+    prompt_template = (Path(__file__).parent.parent / "prompts" / "missing_clause.md").read_text()
     
     # Retrieve clauses and legal context from state
     clauses = state.get("clauses", {})

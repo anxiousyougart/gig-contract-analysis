@@ -6,9 +6,8 @@ from app.llm.groq_client import ask_groq
 
 def extract_clauses(state: ContractState) -> Dict[str, Any]:
     # Load the prompt template as instructed
-    prompt_template = Path(
-        "app/prompts/clause_extraction.md"
-    ).read_text()
+    # prompt_template = (Path(__file__).parent.parent / "prompts" / "clause_extraction.md").read_text()
+    prompt_template = Path(r"C:\Users\User\Documents\Projects\gig-contract-analysis\backend\app\prompts\clause_extraction.md").read_text()
     
     # Get raw text from state
     contract_text = state.get("raw_text", "")
@@ -17,7 +16,7 @@ def extract_clauses(state: ContractState) -> Dict[str, Any]:
     prompt = prompt_template.replace("{contract_text}", contract_text)
     
     # Call Groq LLM
-    response = ask_groq(prompt, max_tokens=2500)
+    response = ask_groq(prompt, max_tokens=4096)
     
     # Parse LLM response to JSON
     cleaned_response = response.strip()

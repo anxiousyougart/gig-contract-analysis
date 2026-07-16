@@ -19,7 +19,7 @@ from app.api.routes import router as api_router
 from app.rag.knowledge_loader import KnowledgeLoader
 
 app = FastAPI(
-    title="Gig Contract Analysis API",
+    title="LexFlow AI Contract Analysis API",
     description="API for extracting clauses, detecting risks, scoring fairness, and retrieving legal evidence for freelance agreements.",
     version="1.0.0"
 )
